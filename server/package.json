@@ -1,0 +1,13 @@
+{
+  "name": "chat-room-server",
+  "description": "the server of chat-room",
+  "version": "0.1.0",
+  "private": false,
+  "scripts": {
+    "server:start": "node server.js"
+  },
+  "dependencies": {
+    "graphql-import-node": "0.0.4",
+    "graphql-yoga": "^1.18.3"
+  }
+}
